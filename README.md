@@ -1,4 +1,4 @@
-# fii-s-scrapper
+# fiis-scrapper
 Used web scraping techniques to get real state funds and create a CSV file with all the data from the website.
 
 ENG:
